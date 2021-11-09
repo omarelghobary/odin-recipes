@@ -1,0 +1,1 @@
+This simple project just to illustrate the basic parts of html page
