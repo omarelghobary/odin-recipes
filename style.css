@@ -1,0 +1,51 @@
+/* id selector for the body element to set the background color */
+#background{
+    background-color: rgb(248, 229, 204);
+}
+/* used for the main list in each page to center it and set it its background and 
+text color*/
+.mainlist{
+    background-color:rgb(182, 137, 55);
+    color:white;
+    font-family: monospace, sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 50%;
+}
+/* used for the main image in each page to center it */
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 50%;
+}
+
+/* headings common declarations for color and center position*/
+.mainheading,
+.heading{
+    background-color: rgb(182, 137, 55);
+    font-family:monospace, sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 50%;
+}
+
+/* text color for headings and text */
+.mainheading{
+    text-align: center;
+    color: black;
+}
+
+.heading{
+    color: white;
+}
+
+footer{
+    text-align: center;
+}
+
+
+
+
