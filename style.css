@@ -8,6 +8,7 @@ text color*/
     background-color:rgb(182, 137, 55);
     color:white;
     font-family: 'Spartan', sans-serif;
+    border-radius: 8px;
     display: block;
     padding: 16px;
     margin-left: auto;
@@ -28,6 +29,7 @@ text color*/
     background-color: rgb(182, 137, 55);
     font-family: 'Spartan', sans-serif;
     font-size: 24px;
+    border-radius: 8px;
     display: block;
     padding: 16px;
     margin-left: auto;
