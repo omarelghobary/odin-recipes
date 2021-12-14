@@ -1,14 +1,15 @@
 /* id selector for the body element to set the background color */
 #background{
     background-color: rgb(248, 229, 204);
-}
+    font-family: 'Spartan', sans-serif;}
 /* used for the main list in each page to center it and set it its background and 
 text color*/
 .mainlist{
     background-color:rgb(182, 137, 55);
     color:white;
-    font-family: monospace, sans-serif;
+    font-family: 'Spartan', sans-serif;
     display: block;
+    padding: 16px;
     margin-left: auto;
     margin-right:auto;
     width: 50%;
@@ -25,8 +26,10 @@ text color*/
 .mainheading,
 .heading{
     background-color: rgb(182, 137, 55);
-    font-family:monospace, sans-serif;
+    font-family: 'Spartan', sans-serif;
+    font-size: 24px;
     display: block;
+    padding: 16px;
     margin-left: auto;
     margin-right:auto;
     width: 50%;
@@ -42,9 +45,17 @@ text color*/
     color: white;
 }
 
+img{
+    max-width: 700px;
+}
+
 footer{
+    background-color: rgb(238, 201, 133);
+    padding: 8px;
     text-align: center;
 }
+
+
 
 
 
